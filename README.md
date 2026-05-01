@@ -95,44 +95,44 @@ currently:   building roadmaps and tools that help others break into Embedded Li
 <table>
 <tr>
   <td width="50%" valign="top">
-    <a href="https://github.com/Moatasem-Elsayed/RoadMap-for-EmbeddedLinux">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Moatasem-Elsayed&repo=RoadMap-for-EmbeddedLinux&hide_border=true&title_color=39d353&icon_color=39d353&text_color=c9d1d9&bg_color=0d1117" />
-    </a>
-    <br/><sub>📍 The starting line for anyone serious about Embedded Linux.</sub>
+    <h4>📍 <a href="https://github.com/Moatasem-Elsayed/RoadMap-for-EmbeddedLinux">RoadMap-for-EmbeddedLinux</a></h4>
+    <p>The starting line for anyone serious about Embedded Linux.</p>
+    <img src="https://img.shields.io/github/stars/Moatasem-Elsayed/RoadMap-for-EmbeddedLinux?style=flat-square&color=39d353&labelColor=0d1117" />
+    <img src="https://img.shields.io/github/forks/Moatasem-Elsayed/RoadMap-for-EmbeddedLinux?style=flat-square&color=39d353&labelColor=0d1117" />
   </td>
   <td width="50%" valign="top">
-    <a href="https://github.com/Moatasem-Elsayed/Linux_Raspberrypi3b_image">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Moatasem-Elsayed&repo=Linux_Raspberrypi3b_image&hide_border=true&title_color=39d353&icon_color=39d353&text_color=c9d1d9&bg_color=0d1117" />
-    </a>
-    <br/><sub>🍓 A custom Yocto image, end-to-end, on real hardware.</sub>
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-    <a href="https://github.com/Moatasem-Elsayed/MakeFile">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Moatasem-Elsayed&repo=MakeFile&hide_border=true&title_color=39d353&icon_color=39d353&text_color=c9d1d9&bg_color=0d1117" />
-    </a>
-    <br/><sub>🛠️ Makefile patterns that scale to real projects.</sub>
-  </td>
-  <td width="50%" valign="top">
-    <a href="https://github.com/Moatasem-Elsayed/vsomeip_examples">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Moatasem-Elsayed&repo=vsomeip_examples&hide_border=true&title_color=39d353&icon_color=39d353&text_color=c9d1d9&bg_color=0d1117" />
-    </a>
-    <br/><sub>🚗 SOME/IP for automotive middleware — runnable examples.</sub>
+    <h4>🍓 <a href="https://github.com/Moatasem-Elsayed/Linux_Raspberrypi3b_image">Linux_Raspberrypi3b_image</a></h4>
+    <p>Custom Yocto image, end-to-end, on real hardware.</p>
+    <img src="https://img.shields.io/github/stars/Moatasem-Elsayed/Linux_Raspberrypi3b_image?style=flat-square&color=39d353&labelColor=0d1117" />
+    <img src="https://img.shields.io/github/forks/Moatasem-Elsayed/Linux_Raspberrypi3b_image?style=flat-square&color=39d353&labelColor=0d1117" />
   </td>
 </tr>
 <tr>
   <td width="50%" valign="top">
-    <a href="https://github.com/Moatasem-Elsayed/Azan_Alarm">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Moatasem-Elsayed&repo=Azan_Alarm&hide_border=true&title_color=39d353&icon_color=39d353&text_color=c9d1d9&bg_color=0d1117" />
-    </a>
-    <br/><sub>🕌 Embedded C++ alarm system with real-world reliability.</sub>
+    <h4>🛠️ <a href="https://github.com/Moatasem-Elsayed/MakeFile">MakeFile</a></h4>
+    <p>Makefile patterns that scale to real projects.</p>
+    <img src="https://img.shields.io/github/stars/Moatasem-Elsayed/MakeFile?style=flat-square&color=39d353&labelColor=0d1117" />
+    <img src="https://img.shields.io/github/forks/Moatasem-Elsayed/MakeFile?style=flat-square&color=39d353&labelColor=0d1117" />
   </td>
   <td width="50%" valign="top">
-    <a href="https://github.com/Moatasem-Elsayed/Device-Driver">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Moatasem-Elsayed&repo=Device-Driver&hide_border=true&title_color=39d353&icon_color=39d353&text_color=c9d1d9&bg_color=0d1117" />
-    </a>
-    <br/><sub>🧬 Linux kernel drivers — char devices, sysfs, ioctl.</sub>
+    <h4>🚗 <a href="https://github.com/Moatasem-Elsayed/vsomeip_examples">vsomeip_examples</a></h4>
+    <p>SOME/IP for automotive middleware — runnable examples.</p>
+    <img src="https://img.shields.io/github/stars/Moatasem-Elsayed/vsomeip_examples?style=flat-square&color=39d353&labelColor=0d1117" />
+    <img src="https://img.shields.io/github/forks/Moatasem-Elsayed/vsomeip_examples?style=flat-square&color=39d353&labelColor=0d1117" />
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+    <h4>🕌 <a href="https://github.com/Moatasem-Elsayed/Azan_Alarm">Azan_Alarm</a></h4>
+    <p>Embedded C++ alarm system with real-world reliability.</p>
+    <img src="https://img.shields.io/github/stars/Moatasem-Elsayed/Azan_Alarm?style=flat-square&color=39d353&labelColor=0d1117" />
+    <img src="https://img.shields.io/github/forks/Moatasem-Elsayed/Azan_Alarm?style=flat-square&color=39d353&labelColor=0d1117" />
+  </td>
+  <td width="50%" valign="top">
+    <h4>🧬 <a href="https://github.com/Moatasem-Elsayed/Device-Driver">Device-Driver</a></h4>
+    <p>Linux kernel drivers — char devices, sysfs, ioctl.</p>
+    <img src="https://img.shields.io/github/stars/Moatasem-Elsayed/Device-Driver?style=flat-square&color=39d353&labelColor=0d1117" />
+    <img src="https://img.shields.io/github/forks/Moatasem-Elsayed/Device-Driver?style=flat-square&color=39d353&labelColor=0d1117" />
   </td>
 </tr>
 </table>
@@ -146,9 +146,11 @@ currently:   building roadmaps and tools that help others break into Embedded Li
 <a href="https://github.com/Moatasem-Elsayed"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="mailto:eng.moatasem.9@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/moatasem-el-sayed/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.youtube.com/@moatasemelsayed6226"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 
 <br/>
 
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote" />
 
 </div>
 
