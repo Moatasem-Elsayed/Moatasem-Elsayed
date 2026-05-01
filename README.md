@@ -86,10 +86,6 @@ currently:   building roadmaps and tools that help others break into Embedded Li
   <img src="https://github-profile-trophy.vercel.app/?username=Moatasem-Elsayed&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=8" alt="trophies" />
 </a>
 
-<a href="https://github.com/Moatasem-Elsayed">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Moatasem-Elsayed&bg_color=0d1117&color=39d353&line=39d353&point=ffffff&area=true&hide_border=true" width="98%" alt="activity graph" />
-</a>
-
 </div>
 
 ---
