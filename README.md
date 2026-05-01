@@ -28,8 +28,6 @@ focus:       [ "Yocto / BitBake", "BSP & Board Bring-up", "Linux Kernel & Driver
                "C/C++17/20", "RTOS", "Automotive Middleware (vsomeip / SOME-IP)" ]
 shipping:    [ "Custom Linux distros", "Layer recipes", "Kernel modules", "CLI tools" ]
 toolbox:     [ "GDB", "QEMU", "Buildroot", "CMake", "GoogleTest", "Docker" ]
-mantra:      "Read the datasheet. Then read it again."
-currently:   building roadmaps and tools that help others break into Embedded Linux
 ```
 
 ---
@@ -78,9 +76,6 @@ currently:   building roadmaps and tools that help others break into Embedded Li
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moatasem-Elsayed&layout=compact&hide_border=true&langs_count=10&title_color=39d353&text_color=c9d1d9&bg_color=0d1117" />
 </a>
 
-<a href="https://github.com/Moatasem-Elsayed">
-  <img src="https://streak-stats.demolab.com?user=Moatasem-Elsayed&theme=github-dark&hide_border=true&background=0d1117&ring=39d353&fire=39d353&currStreakLabel=39d353" alt="streak" height="170" />
-</a>
 
 <a href="https://github.com/Moatasem-Elsayed">
   <img src="https://github-profile-trophy.vercel.app/?username=Moatasem-Elsayed&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=8" alt="trophies" />
@@ -148,9 +143,6 @@ currently:   building roadmaps and tools that help others break into Embedded Li
 <a href="https://www.linkedin.com/in/moatasem-el-sayed/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.youtube.com/@moatasemelsayed6226"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 
-<br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote" />
 
 </div>
 
