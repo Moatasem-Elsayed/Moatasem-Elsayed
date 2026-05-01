@@ -149,7 +149,6 @@ currently:   building roadmaps and tools that help others break into Embedded Li
 
 <br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote" />
 
 </div>
 
