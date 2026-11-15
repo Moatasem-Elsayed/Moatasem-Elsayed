@@ -142,6 +142,8 @@ toolbox:     [ "GDB", "QEMU", "Buildroot", "CMake", "GoogleTest", "Docker" ]
 <a href="mailto:eng.moatasem.9@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/moatasem-el-sayed/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.youtube.com/@moatasemelsayed6226"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+<a href="https://moatasemelsayed.com/?utm_source=github&utm_medium=profile"><img src="https://img.shields.io/badge/Website-moatasemelsayed.com-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://moatasemelsayed.com/roadmap?utm_source=github&utm_medium=profile"><img src="https://img.shields.io/badge/Free%20Roadmap-250%2B%20videos-39d353?style=for-the-badge&logo=roadmapdotsh&logoColor=white" /></a>
 
 
 </div>
