@@ -130,6 +130,20 @@ toolbox:     [ "GDB", "QEMU", "Buildroot", "CMake", "GoogleTest", "Docker" ]
     <img src="https://img.shields.io/github/forks/Moatasem-Elsayed/Device-Driver?style=flat-square&color=39d353&labelColor=0d1117" />
   </td>
 </tr>
+<tr>
+  <td width="50%" valign="top">
+    <a href="https://github.com/Moatasem-Elsayed/yocto-variable-glossary">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Moatasem-Elsayed&repo=yocto-variable-glossary&hide_border=true&title_color=39d353&icon_color=39d353&text_color=c9d1d9&bg_color=0d1117" />
+    </a>
+    <br/><sub>📖 Searchable reference for every Yocto / BitBake variable.</sub>
+  </td>
+  <td width="50%" valign="top">
+    <a href="https://github.com/Moatasem-Elsayed/Scraping-for-OpenEmbedded">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Moatasem-Elsayed&repo=Scraping-for-OpenEmbedded&hide_border=true&title_color=39d353&icon_color=39d353&text_color=c9d1d9&bg_color=0d1117" />
+    </a>
+    <br/><sub>🔍 Scraper for OpenEmbedded layer index — find recipes fast.</sub>
+  </td>
+</tr>
 </table>
 
 ---
